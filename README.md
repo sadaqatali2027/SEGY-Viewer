@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="EASD-SEGY Viewer" width="100%"/>
+  <img src="banner.svg" alt="SEGY Viewer" width="100%"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-**EASD-SEGY Viewer** is a fully self-contained, browser-based SEG-Y seismic data viewer. Drop a `.segy` or `.sgy` file and instantly explore inlines, crosslines, timeslices, a 2-D map, and an interactive 3-D preview — with zero installation, zero server, and zero data leaving your machine.
+**SEGY Viewer** is a fully self-contained, browser-based SEG-Y seismic data viewer. Drop a `.segy` or `.sgy` file and instantly explore inlines, crosslines, timeslices, a 2-D map, and an interactive 3-D preview — with zero installation, zero server, and zero data leaving your machine.
 
 ---
 
